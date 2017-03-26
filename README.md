@@ -1,5 +1,5 @@
 # AeiNN
-##Artificial Emotionally Intelligent Neural Network 
+_**Artificial Emotionally Intelligent Neural Network**_
 
 shortlisted submission for BigRedHacks 2017 - Spring. 
 
